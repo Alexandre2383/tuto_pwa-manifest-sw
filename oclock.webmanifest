@@ -1,0 +1,35 @@
+{
+  "name": "PWA name",
+  "short_name": "PWA short name",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#241a91",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/clock192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/clock512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/img/screenshot1.png",
+      "type": "image/png",
+      "sizes": "720x405",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/img/screenshot2.png",
+      "type": "image/jpg",
+      "sizes": "1315x740",
+      "form_factor": "wide"
+    }
+  ]
+}

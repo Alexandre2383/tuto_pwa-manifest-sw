@@ -2,7 +2,7 @@
 ************\*\*\*\***************ENGLISH
 \*/
 
-Repositorie made for my PWA technologie presentation, it’s an example with minimun js function so you can take it to have a code base for your PWA.
+Repositorie made for my PWA technology presentation, it’s an example with minimun js function so you can take it to have a code base for your PWA.
 
 Service Worker PWA
 
